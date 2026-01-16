@@ -8,7 +8,7 @@ O projeto foi criado com foco em aprendizado, organização de código e boas pr
 
 ## 🎮 Screenshot do jogo
 
-![Snake Game](screenshot.png)
+![Snake Game](screenshot.PNG)
 
 > Interface do jogo em execução.
 
